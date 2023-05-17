@@ -4,6 +4,10 @@ Implemented a gamified web application for Terminum to train scrap inspectors. E
 
 <img width="459" alt="Screen Shot 2023-05-16 at 10 40 38 PM" src="https://github.com/fdoddoli/Ternium_Unity_Proyect/assets/58672371/4aeca4f3-ff9a-4e45-ba3a-9565af8242d2">
 
+# App Demonstration 
+
+https://drive.google.com/file/d/1eqx6Lu0RRO5piTgc-3fwc9IPwpDuWg4W/view?usp=sharing
+
 # Game Description
 
 The game has two modes: an exam and a practice. The objective of the exam mode is to answer a fixed number of questions assigned by an administrator. The objective of the practice mode is to sort as many photographs as possible according to the type of scrap they depict. The setting is a dungeon with three different tunnels, each representing a scrap type option.
